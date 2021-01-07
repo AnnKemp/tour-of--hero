@@ -1,6 +1,5 @@
-# AngularAppTwo
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+# AngularAppTwod [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+There is one folder missing (node_modules), for security reasons, but you can check the code in the src-map.
 
 ## Development server
 
